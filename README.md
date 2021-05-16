@@ -3,4 +3,3 @@ I am taking a first course in Optimization from the text An Introduction to Opti
 
 Algorithms implemented
 -------------------------
-
