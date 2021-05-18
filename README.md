@@ -3,3 +3,11 @@ I am taking a first course in Optimization from the text, [An Introduction to Op
 
 Algorithms implemented
 -------------------------
+
+| Type of problem             | Algorithm              |
+|-----------------------------|------------------------|
+| Unconstrained Optimization  | Golden section search  |
+|                             | Fibonacci search       |
+|                             | Bisection method       |
+|                             | Newton's method        |
+|                             | Secant algorithm       |
