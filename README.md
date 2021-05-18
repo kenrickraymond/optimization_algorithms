@@ -4,10 +4,10 @@ I am taking a first course in Optimization from the text, [An Introduction to Op
 Algorithms implemented
 -------------------------
 
-| Type of problem             | Algorithm                                             |
-|-----------------------------|-------------------------------------------------------|
-| Unconstrained Optimization  | [Golden section search](golden_section_search.ipynb)  |
-|                             | [Fibonacci search](fibonacci_search.ipynb)            |
-|                             | [Bisection method](bisection_search.ipynb)            |
-|                             | [Newton's method](newtons_method.ipynb)               |
-|                             | [Secant algorithm](secant_algorithm.ipynb)            |
+| Type of problem             | Algorithm                                                                                                                                 |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Unconstrained Optimization  | [Golden section search](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/golden_section_search.ipynb)  |
+|                             | [Fibonacci search](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/fibonacci_search.ipynb)            |
+|                             | [Bisection method](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/bisection_search.ipynb)            |
+|                             | [Newton's method](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/newtons_method.ipynb)               |
+|                             | [Secant algorithm](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/secant_algorithm.ipynb)            |
