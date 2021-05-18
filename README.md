@@ -6,7 +6,7 @@ Algorithms implemented
 
 | Type of problem             | Algorithm                                                                                                                                 |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Unconstrained Optimization  | [Golden section search](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/golden_section_search.ipynb)  |
+| Bracketing                  | [Golden section search](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/golden_section_search.ipynb)  |
 |                             | [Fibonacci search](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/fibonacci_search.ipynb)            |
 |                             | [Bisection method](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/bisection_search.ipynb)            |
 |                             | [Newton's method](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/newtons_method.ipynb)               |
