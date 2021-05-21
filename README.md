@@ -12,3 +12,4 @@ Algorithms implemented
 |                             | [Newton's method](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/newtons_method.ipynb)               |
 |                             | [Secant algorithm](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/secant_algorithm.ipynb)            |
 |                             | [Shubert Piyavskii](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/shubert_piyavskii.ipynb)          |
+|                             | [Initial Bracket](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/bracket_minimum.ipynb)              |
