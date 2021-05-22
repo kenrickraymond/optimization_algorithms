@@ -13,3 +13,6 @@ Algorithms implemented
 |                             | [Secant algorithm](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/secant_algorithm.ipynb)            |
 |                             | [Shubert Piyavskii](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/shubert_piyavskii.ipynb)          |
 |                             | [Initial Bracket](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/bracket_minimum.ipynb)              |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Local Descent               | [Exact line search](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/exact_line_search.ipynb)          |
+|                             | [Armijo condition](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/approximate_line_search.ipynb)     |
