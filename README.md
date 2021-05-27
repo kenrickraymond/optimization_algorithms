@@ -15,3 +15,4 @@ Algorithms implemented
 |                             | [Initial Bracket](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/bracket_minimum.ipynb)              |
 | Local Descent               | [Exact line search](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/exact_line_search.ipynb)          |
 |                             | [Armijo condition](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/approximate_line_search.ipynb)     |
+| First-Order methods         | [Gradient Descent](https://nbviewer.jupyter.org/github/quantophile/optimization_algorithms/blob/master/steepest_descent.ipynb)            |
