@@ -4,16 +4,6 @@ using ForwardDiff
 
 abstract type FirstOrderOptimizer end
 
-function backtracking_line_search(f, ∇f, x, d, α; ρ=0.5, β=1e-4)
-    ϕ(α) = f(x .+ α .* d)
-    l(α) = f(x) + β * α * (∇f(x) ⋅ d)
-
-    while (ϕ(α) > l(α))  # First Wolfe condition
-        α = ρ * α
-    end
-    return α
-end
-
 struct GradientDescent <: FirstOrderOptimizer
     alphaguess
     linesearch
@@ -62,5 +52,9 @@ function GradientDescent(f, x₀, ϵ=1e-5)
     push!(X, x₀)
     push!(X, x₁)
 
-
+    k = 1
+    while(abs((f(X[k+1]) - f(X[k]))/f(X[k])) < ϵ)
+        x  = step!(gradDescent, f, ∇f, x₁)
+        push!(X, x)
+    end
 end

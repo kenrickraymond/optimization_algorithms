@@ -4,6 +4,14 @@ module Bracketing
 
 using Printf
 
+export  bracket_minimum,
+        bisection,
+        fbs,
+        gss,
+        newton,
+        secant,
+        shubert_piyavskii
+        
 # Initial guess methods
 include("bracket_minimum.jl")
 
